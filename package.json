@@ -1,0 +1,11 @@
+{
+  "name": "gouge-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mcpar-land",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gouge": "*"
+  }
+}
