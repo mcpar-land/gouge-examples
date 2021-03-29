@@ -6,6 +6,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "gouge": "*"
+    "@types/node": "^14.14.37",
+    "gouge": "*",
+    "typescript": "^4.2.3"
   }
 }
